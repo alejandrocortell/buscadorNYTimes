@@ -20,7 +20,10 @@ quasar build
 
 ### Configurar buscador
 Crear cuenta en https://developer.nytimes.com/accounts/create
-Insertar la APIKEY obtenida en src/pages/buscador.vue en la línea 171 sustituyendo /*Inserta tu APIKEY aqui*/
+Insertar la APIKEY obtenida en src/pages/buscador.vue en la línea 171 sustituyendo 
+```bash
+/*Inserta tu APIKEY aqui*/
+```
 Ejemplo de línea:
 ```bash
 "&api-key=Sd9fdfj9dudfjfd9fdjfl")
